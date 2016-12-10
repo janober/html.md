@@ -24,7 +24,7 @@
   "dependencies": {
     "commander": "~2.0.0",
     "fs-extra": "~0.7.0",
-    "jsdom": "~0.8.6"
+    "jsdom": "9.x.x"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
